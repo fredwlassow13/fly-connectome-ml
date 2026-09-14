@@ -204,8 +204,7 @@ fly-connectome-ml/
 │       └── nodes_with_degrees.parquet
 │
 └── README.md
-```text
-
+```
 Os arquivos de dados brutos e processados podem ser excluídos do versionamento caso sejam grandes ou possuam restrições de redistribuição. Nesse caso, o repositório deve documentar sua origem e o procedimento necessário para reproduzi-los.
 
 Reprodutibilidade
@@ -451,7 +450,7 @@ fly-connectome-ml/
 │       └── nodes_with_degrees.parquet
 │
 └── README.md
-```text
+```
 
 The raw and processed data files may be excluded from version control if they are large or subject to redistribution restrictions. In that case, the repository should document their source and the procedure required to reproduce them.
 
